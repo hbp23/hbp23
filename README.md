@@ -1,23 +1,36 @@
-# Hi, I'm Harsh Patel 👋
+# Harsh Patel
 
-🎓 Computer Science student at Auburn University (Graduating Dec 2025)  
-💻 Aspiring Software Engineer | Interested in Full-Stack Development & Databases  
-🔍 Actively seeking Spring 2026 Internship or Entry-Level SWE Role  
+Computer Science @ Auburn (Dec 2025). Full-stack and databases. Seeking Spring 2026 SWE internship or entry-level.
 
 ---
 
-## 🚀 Projects
-- **Guest List Manager** – Full-stack CRUD app (React, Node.js, PostgreSQL)  
-- **Algorithm Visualizer** – Interactive tool for data structures & algorithms  
-- *(More coming soon...)*  
+## Featured Projects
+
+- **JavaFX Expense Tracker** — Desktop app with budgets, charts, and shortcuts. Java 17, JavaFX, Maven. [Repo](https://github.com/hbp23/javafx-expense-tracker)  
+- **Wedding Guest List (PHP/MySQL)** — Auth, CRUD, CSV export, screenshots included. PHP 8.1, MySQL, PDO. [Repo](https://github.com/hbp23/wedding-guestlist-php)  
+- **Hospital SQL Console** — Java CLI that runs 21 curated SQL queries on a hospital DB via JDBC. [Repo](https://github.com/hbp23/hospital-sql-console)  
+- **Job Application Tracker** — WIP. PHP + MySQL + AJAX. Schema ready; endpoints and UI next. [Repo](https://github.com/hbp23/job-application-tracker)
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Java, Python, JavaScript, SQL  
-- **Frameworks & Tools:** React, Node.js, Express, PostgreSQL, Git  
-- **CS Concepts:** OOP, Databases, Data Structures, Algorithms  
+## Skills
 
+**Languages:** Java, SQL, JavaScript, PHP, Python  
+**Back end:** JDBC, PHP (PDO), Node basics  
+**Front end:** HTML, CSS, JS  
+**Data:** MySQL, PostgreSQL basics  
+**Tools:** Git, Maven, IntelliJ, VS Code
+
+---
+
+## Links
+
+- Portfolio/site: https://webhome.auburn.edu/~hbp0020/  
+- LinkedIn: https://www.linkedin.com/in/harsh-patel-b9211532a
+- [Email](mailto:harsh.patel615@gmail.com) 
+---
+
+_MIT license across repos where noted._
 ---
 
 ## 📫 Connect
