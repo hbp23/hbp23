@@ -25,14 +25,9 @@ Computer Science @ Auburn (Dec 2025). Full-stack and databases. Seeking Spring 2
 
 ## Links
 
-- Portfolio/site: https://webhome.auburn.edu/~hbp0020/  
-- LinkedIn: https://www.linkedin.com/in/harsh-patel-b9211532a
+- [Portfolio/site](https://webhome.auburn.edu/~hbp0020/)
+- [LinkedIn](https://www.linkedin.com/in/harsh-patel-b9211532a)
 - [Email](mailto:harsh.patel615@gmail.com) 
 ---
 
 _MIT license across repos where noted._
----
-
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/harsh-patel-b9211532a)  
-- [Email](mailto:harsh.patel615@gmail.com)  
